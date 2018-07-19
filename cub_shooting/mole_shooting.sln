@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mole_shooting", "mole_shooting\mole_shooting.csproj", "{FAA6A4E3-5F74-427A-845E-40D543E9DC8B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Game", "Game\Game.vdproj", "{976AC12D-FB7C-4555-A368-9D3C1D7E23F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAA6A4E3-5F74-427A-845E-40D543E9DC8B}.Debug|x86.ActiveCfg = Debug|x86
+		{FAA6A4E3-5F74-427A-845E-40D543E9DC8B}.Debug|x86.Build.0 = Debug|x86
+		{FAA6A4E3-5F74-427A-845E-40D543E9DC8B}.Release|x86.ActiveCfg = Release|x86
+		{FAA6A4E3-5F74-427A-845E-40D543E9DC8B}.Release|x86.Build.0 = Release|x86
+		{976AC12D-FB7C-4555-A368-9D3C1D7E23F4}.Debug|x86.ActiveCfg = Debug
+		{976AC12D-FB7C-4555-A368-9D3C1D7E23F4}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

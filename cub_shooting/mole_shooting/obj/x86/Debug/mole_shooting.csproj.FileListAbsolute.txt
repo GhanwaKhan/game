@@ -1,0 +1,15 @@
+c:\users\khan\documents\visual studio 2010\Projects\mole_shooting\mole_shooting\bin\Debug\mole_shooting.exe
+c:\users\khan\documents\visual studio 2010\Projects\mole_shooting\mole_shooting\bin\Debug\mole_shooting.pdb
+c:\users\khan\documents\visual studio 2010\Projects\mole_shooting\mole_shooting\obj\x86\Debug\mole_shooting.Form1.resources
+c:\users\khan\documents\visual studio 2010\Projects\mole_shooting\mole_shooting\obj\x86\Debug\mole_shooting.Properties.Resources.resources
+c:\users\khan\documents\visual studio 2010\Projects\mole_shooting\mole_shooting\obj\x86\Debug\mole_shooting.csproj.GenerateResource.Cache
+c:\users\khan\documents\visual studio 2010\Projects\mole_shooting\mole_shooting\obj\x86\Debug\mole_shooting.exe
+c:\users\khan\documents\visual studio 2010\Projects\mole_shooting\mole_shooting\obj\x86\Debug\mole_shooting.pdb
+C:\Users\khan\Documents\Visual Studio 2010\Projects\cub_shooting\mole_shooting\obj\x86\Debug\mole_shooting.exe
+C:\Users\khan\Documents\Visual Studio 2010\Projects\cub_shooting\mole_shooting\obj\x86\Debug\mole_shooting.pdb
+C:\Users\khan\Documents\Visual Studio 2010\Projects\cub_shooting\mole_shooting\bin\Debug\mole_shooting.exe
+C:\Users\khan\Documents\Visual Studio 2010\Projects\cub_shooting\mole_shooting\bin\Debug\mole_shooting.pdb
+C:\Users\khan\Documents\Visual Studio 2010\Projects\cub_shooting\mole_shooting\obj\x86\Debug\mole_shooting.csprojResolveAssemblyReference.cache
+C:\Users\khan\Documents\Visual Studio 2010\Projects\cub_shooting\mole_shooting\obj\x86\Debug\mole_shooting.Form1.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\cub_shooting\mole_shooting\obj\x86\Debug\mole_shooting.Properties.Resources.resources
+C:\Users\khan\Documents\Visual Studio 2010\Projects\cub_shooting\mole_shooting\obj\x86\Debug\mole_shooting.csproj.GenerateResource.Cache
